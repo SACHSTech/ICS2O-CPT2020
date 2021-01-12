@@ -1,2 +1,2 @@
-# Pygame Base Template
+# Pygame Workflow
 ![PygameLoop.png](PygameLoop.png)
